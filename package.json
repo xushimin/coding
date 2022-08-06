@@ -1,0 +1,11 @@
+{
+  "name": "coding-ex",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:xushimin/coding.git",
+  "author": "xushimin <xushimin@bytedance.com>",
+  "license": "MIT",
+  "dependencies": {
+    "jest": "^28.1.3"
+  }
+}
