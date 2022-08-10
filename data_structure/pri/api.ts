@@ -21,6 +21,7 @@ class MaxPQ {
   }
 
   isEmpty(): boolean {
+    console.log('test');
     return false;
   }
 
